@@ -1,0 +1,29 @@
+.slider .ant-layout-sider{
+    height: 100%;
+    margin-right: 20px;
+    width:270px !important;
+    max-width:270px !important;
+    min-width:270px !important;
+}
+.slider .ant-layout-sider-collapsed{
+    min-width: 80px !important;
+    max-width: 80px !important;
+    width:80px !important;
+}
+.ant-menu-submenu-title{
+    height: 50px !important;
+    line-height:50px !important;
+}
+.ant-menu-item .anticon, .ant-menu-submenu-title .anticon{
+    font-size: 18px;
+}
+.anticon>span{
+    font-size: 18px;
+}
+.ant-menu{
+    font-size: 16px;
+}
+.ant-menu-sub.ant-menu-inline > .ant-menu-item{
+    height:50px;
+    line-height: 50px;
+}
